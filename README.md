@@ -9,7 +9,7 @@
 커리퀸은 ***아주*** 맛이 있다.
 
 # 코드
-```
+``` java
 public static void main(String[] args){
 System.out.println("커리퀸 맛있다");
 }
