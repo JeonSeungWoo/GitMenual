@@ -53,17 +53,17 @@
   - 2단계
     - 3단계
 ```
-* 빨강
-  * 녹색
-    * 파랑
+* 1단계
+  * 2단계
+    * 3단계
 
-+ 빨강
-  + 녹색
-    + 파랑
++ 1단계
+  + 2단계
+    + 3단계
 
-- 빨강
-  - 녹색
-    - 파랑
+- 1단계
+  - 2단계
+    - 3단계
 ```
 혼합해서 사용가능.
 * 1단계
@@ -197,22 +197,21 @@ https://img.shields.io/github/commit-activity/w/beygee/survive
 //깃헙 레포 라스트 커밋 날짜
 https://img.shields.io/github/last-commit/beygee/survive
 ```
+[https://img.shields.io/github/languages/count/beygee/survive]
 
-https://img.shields.io/github/languages/count/beygee/survive 
+[https://img.shields.io/github/languages/top/beygee/survive]
 
-https://img.shields.io/github/languages/top/beygee/survive
+[https://img.shields.io/github/languages/code-size/beygee/survive]
 
-https://img.shields.io/github/languages/code-size/beygee/survive
+[https://img.shields.io/github/repo-size/beygee/survive]
 
-https://img.shields.io/github/repo-size/beygee/survive
+[https://img.shields.io/github/issues/beygee/survive]
 
-https://img.shields.io/github/issues/beygee/survive
+[https://img.shields.io/github/issues-closed/beygee/survive]
 
-https://img.shields.io/github/issues-closed/beygee/survive
+[https://img.shields.io/github/commit-activity/w/beygee/survive]
 
-https://img.shields.io/github/commit-activity/w/beygee/survive
-
-https://img.shields.io/github/last-commit/beygee/survive
+[https://img.shields.io/github/last-commit/beygee/survive]
 
 
 ### note 사용법
