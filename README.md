@@ -166,17 +166,53 @@ logo=facebook&logoColor=white&logoWidth=40
 url로 최종을 확인 한다음 적용한다.
 https://img.shields.io/badge/label-message--v0.1-blue?style=flat&logo=facebook
 
+
+
+
 최종 : 
 [![GitHub message](https://img.shields.io/badge/label-message--v0.1-blue?style=flat&logo=facebook)]
 (https://github.com/JeonSeungWoo/GitMenual/releases)
 
 ```
+[![GitHub message](https://img.shields.io/badge/label-message--v0.1-blue?style=flat&logo=facebook)](https://github.com/JeonSeungWoo/GitMenual/releases)
 
-[![GitHub message](https://img.shields.io/badge/label-message--v0.1-blue?style=flat&logo=facebook)]
-(https://github.com/JeonSeungWoo/GitMenual/releases)
 
 ## Shield의 특수한 기능
-###
+### Shield에서 Github나 여러 다른 사이트와 연동하여 Build의 상태나, Code Coverage, 프로젝트의 사이즈 등등 여러가지를 자동화하여 뱃지로 보여줄 수 있다.
+```
+//깃헙 레포 사용 언어 수
+https://img.shields.io/github/languages/count/beygee/survive 
+//깃헙 레포 최다빈도 언어
+https://img.shields.io/github/languages/top/beygee/survive
+//깃헙 레포 코드 용량
+https://img.shields.io/github/languages/code-size/beygee/survive
+//깃헙 레포 용량
+https://img.shields.io/github/repo-size/beygee/survive
+//깃헙 레포 오픈 이슈 개수
+https://img.shields.io/github/issues/beygee/survive
+//깃헙 레포 닫힌 이슈 개수
+https://img.shields.io/github/issues-closed/beygee/survive
+//깃헙 레포 주간 커밋 수
+https://img.shields.io/github/commit-activity/w/beygee/survive
+//깃헙 레포 라스트 커밋 날짜
+https://img.shields.io/github/last-commit/beygee/survive
+```
+
+https://img.shields.io/github/languages/count/beygee/survive 
+
+https://img.shields.io/github/languages/top/beygee/survive
+
+https://img.shields.io/github/languages/code-size/beygee/survive
+
+https://img.shields.io/github/repo-size/beygee/survive
+
+https://img.shields.io/github/issues/beygee/survive
+
+https://img.shields.io/github/issues-closed/beygee/survive
+
+https://img.shields.io/github/commit-activity/w/beygee/survive
+
+https://img.shields.io/github/last-commit/beygee/survive
 
 
 ### note 사용법
