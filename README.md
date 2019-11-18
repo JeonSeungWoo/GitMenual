@@ -53,10 +53,8 @@ $ npm install test.css
 
 
 ### git 태그
-
 [![GitHub release]
-(https://github.com/JeonSeungWoo/GitMenual/releases/tag/1.0)]
-
+(https://github.com/JeonSeungWoo/GitMenual/releases)]
 
 ### note 사용법
 
