@@ -52,10 +52,11 @@ $ npm install test.css
 | `레코드`   | `레코드`   |
 
 
-### git 태그
-[![GitHub release]
-(https://github.com/JeonSeungWoo/GitMenual/releases)]
+### git 태그   https://shields.io/ 사용법
+# https://shields.io/ 에 들어가면 다양한 태그들을 사용
 
+[![GitHub release] (https://img.shields.io/badge/label-message--v0.1-blue?style=flat&logo=facebook)]
+(https://github.com/JeonSeungWoo/GitMenual/releases)
 ### note 사용법
 
 > _**Note**: 나는 `커리퀸을` 좋아`한다`.
